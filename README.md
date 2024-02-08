@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Muhamad Afghan Alzena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/MuhamadAfghan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Sofware+Enginer;Bersiap,Bertindak,Sukses!&center=true&width=500&height=50"></a>
+  <a href="https://github.com/MuhamadAfghan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Sofware+Enginer;'Bersiap,Bertindak,Sukses!'&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Saya adalah pemula dalam dunia pemrograman dengan keterampilan dasar dalam JavaScript, PHP, MySQL, Laravel, dan Bootstrap. </h4>
@@ -88,7 +88,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:muhamadafghanalzena@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Samunee"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/MuhamadAfghan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://wa.me/6283808383191?text=Nama%3A+%0APesan%3A+"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
 	
 </p>
