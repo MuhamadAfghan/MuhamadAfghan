@@ -11,10 +11,14 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Backend Development
 
 <p align="left"> 
 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
+  </a>
   &emsp;
    <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank">
     <img alt="Ajax" src="https://img.shields.io/badge/Ajax%20-%2314354C.svg?logo=ajax&logoColor=white">
@@ -44,10 +48,6 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
-  </a>
   &emsp; 
   <a href="https://getbootstrap.com/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?logo=bootstrap&logoColor=orange">
