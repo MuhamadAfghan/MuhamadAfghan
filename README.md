@@ -20,10 +20,6 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank">
-    <img alt="Ajax" src="https://img.shields.io/badge/Ajax%20-%2314354C.svg?logo=ajax&logoColor=white">
-  </a>
-  &emsp;
    <a href="https://www.mysql.com/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=mysql&logoColor=orange">
   </a>
@@ -52,6 +48,10 @@
   <a href="https://getbootstrap.com/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?logo=bootstrap&logoColor=orange">
   </a>
+  &emsp;
+   <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank">
+    <img alt="Ajax" src="https://img.shields.io/badge/Ajax%20-%2314354C.svg?logo=ajax&logoColor=white">
+  </a>
 
  ### 👉 Software & Tools
  
@@ -61,6 +61,10 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="XAMPP" src="https://www.enovision.net/storage/legacy/image172.png" style="height: 20px; border-radius:10px;"></a>
+  &emsp;
+    <a href="#"><img alt="MySql Work Bench" src="https://i.pinimg.com/736x/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.jpg" style="height: 40px; border-radius:10px;"></a>
+	
 <p>
   &emsp;
 </p>
