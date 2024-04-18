@@ -48,9 +48,9 @@
   <a href="https://getbootstrap.com/" target="_blank"> 
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?logo=bootstrap&logoColor=orange">
   </a>
-  &emsp; 
-  <a href="https://tailwindcss.com/" target="_blank"> 
-   <img alt="Tailwind" src=" https://img.shields.io/badge/play-station-blue.svg?www.svgrepo.com/download/374118/tailwind.svg">
+  &emsp;
+   <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Ajax%20-%2314354C.svg?logo=tailwindcss&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank">
