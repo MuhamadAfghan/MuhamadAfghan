@@ -50,7 +50,7 @@
   </a>
   &emsp;
    <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind" src="https://img.shields.io/badge/Ajax%20-%2314354C.svg?logo=tailwindcss&logoColor=white">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Ajax%20-%2314354C.svg?logo=tailwindcss&logoColor=blue">
   </a>
   &emsp;
    <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank">
