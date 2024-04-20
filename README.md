@@ -1,102 +1,102 @@
+<h2 align="left">Hi 👋! My name is MuhamadAfghan and I'm a Fullstack Web Developer, from Indonesia</h2>
 
-<h1 align="center">Halo, Saya Muhamad Afghan Alzena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/MuhamadAfghan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Sofware+Enginer;'Bersiap,Bertindak,Sukses!'&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">Saya adalah pemula dalam dunia pemrograman dengan keterampilan dasar dalam JavaScript, PHP, MySQL, Laravel, dan Bootstrap. </h4>
-<h4 align="center">Saya memiliki semangat besar untuk terus belajar dan berkembang dalam mengembangkan aplikasi web yang menarik dan berfungsi dengan baik.</h4>
-<br>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadAfghan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhamadAfghan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ My Skills
+###
 
-### 👉 Backend Development
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/151376017?v=4"  />
 
-<p align="left"> 
+###
 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="30" alt="cakephp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="www.youtube.com/@MuhamadafghanAlzena" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  &emsp;
-   <a href="https://www.mysql.com/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=mysql&logoColor=orange">
+  <a href="https://www.instagram.com/_afgnn29/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  &emsp;
-   <a href="https://laravel.com/" target="_blank">
-    <img alt="Golang" src="https://img.shields.io/badge/Laravel%20-%2314354C.svg?logo=laravel&logoColor=orange">
+  <a href="linkedin.com/in/muhamadafghan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
 
-</p>
+###
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp; 
-  <a href="https://getbootstrap.com/" target="_blank"> 
-   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?logo=bootstrap&logoColor=orange">
-  </a>
-  &emsp;
-   <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS%20-%2314354C.svg?logo=tailwindcss&logoColor=blue&labelColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank">
-    <img alt="Ajax" src="https://img.shields.io/badge/Ajax%20-%2314354C.svg?logo=ajax&logoColor=white">
-  </a>
+<br clear="both">
 
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="XAMPP" src="https://www.enovision.net/storage/legacy/image172.png" style="height: 20px; border-radius:10px;"></a>
-  &emsp;
-    <a href="#"><img alt="MySql Work Bench" src="https://i.pinimg.com/736x/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.jpg" style="height: 40px; border-radius:10px;"></a>
-	
-<p>
-  &emsp;
-</p>
+<img src="https://raw.githubusercontent.com/MuhamadAfghan/MuhamadAfghan/output/snake.svg" alt="Snake animation" />
 
-<br/>
+###
 
-## 📊 Github Stats (Expand to View) 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhamadAfghan.MuhamadAfghan&"  />
+</div>
 
+###
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-      <a href="https://awesome-github-stats.azurewebsites.net/user-stats/MuhamadAfghan?cardType=github&theme=github-dark&preferLogin=false">    <img  alt="Muhamad Afghan GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MuhamadAfghan?cardType=github&theme=github-dark&preferLogin=false" />  </a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadAfghan&layout=compact&theme=algolia" alt="MuhamadAfghan" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@MuhamadAfghan&theme=default" alt="Layout with last medium posts"  />
+</div>
 
-<br/>
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:muhamadafghanalzena@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/MuhamadAfghan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://wa.me/6283808383191?text=Nama%3A+%0APesan%3A+"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
-	
-</p>
+###
