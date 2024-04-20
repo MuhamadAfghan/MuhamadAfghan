@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhamadAfghan.MuhamadAfghan&"  />
+  <img src="https://profile-counter.glitch.me/MuhamadAfghan/count.svg?"  />
 </div>
 
 ###
