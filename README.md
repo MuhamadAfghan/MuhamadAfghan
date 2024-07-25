@@ -5,7 +5,7 @@
 <h3 align="center">A Backend Web Developer from Indonesian</h3>
   
 ### 
-
+ 
 <p align="left">As a passionate student in the world of web development, I discovered a strong interest in backend development with a focus on the Laravel framework. I understand that rigor and tenacity are the keys to building efficient and reliable solutions. With a developed programming background, I have the ability to quickly analyze and identify weaknesses in a system.<br><br>I believe that collaboration and problem solving are at the heart of every project, and I am ready to engage in an environment that supports my personal and professional growth. With high dedication and enthusiasm, I am ready to explore further and deepen my abilities in the world of web development.</p>
 
 ###
