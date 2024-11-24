@@ -144,7 +144,11 @@
 
 <br clear="both">
 
-<img src="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" />
+<div style="display:'flex';gap:10px;" align="center">
+  <img src="https://wakatime.com/share/@f36925d6-6079-4753-a976-189d34c091e5/f87595cd-d5ee-4333-9afa-e4dba55f424f.png" alt="Wakatime Weakly" width="49%" />
+  <img src="https://wakatime.com/share/@f36925d6-6079-4753-a976-189d34c091e5/46573d19-7f13-462a-9d39-45148d727012.png" alt="Wakatime Language" width="49%" />
+  
+</div>
 
 ###
 
